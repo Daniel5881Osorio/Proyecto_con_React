@@ -30,8 +30,6 @@ export const Products = () => {
                 </button>
             </div>
           </div>
-        ))}
-      </div>
     </section>
   );
 };
