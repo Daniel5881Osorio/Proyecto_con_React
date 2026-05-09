@@ -26,7 +26,7 @@ export const Products = () => {
                 <p className="text-orange-500 font-black text-xl mt-1">${item.price}</p>
               </div>
                 <button className="bg-pink-600 text-white px-6 py-3 rounded-xl font-bold text-xs hover:bg-pink-500 transition-colors shadow-lg shadow-pink-900/20">
-                 PEDIR
+                 PEDIR PRODUCTO
                 </button>
             </div>
           </div>
